@@ -1,0 +1,122 @@
+izmir Veri Seti
+
+Tarihi Yerler
+	•	Adı: Efes
+	◦	Açıklama: Antik dönemin en önemli merkezlerinden biri olan Efes, Celsus Kütüphanesi ve Artemis Tapınağı gibi eşsiz kalıntılarıyla dünya çapında bir tarihi sit alanıdır.
+	•	Adı: Tarihi Asansör
+	◦	Açıklama: 1907 yılında inşa edilen tarihi Asansör, Konak'ta bulunan bir asansör kulesidir. Mithatpaşa Caddesi'nden Halil Rıfat Paşa semtine ulaşımı kolaylaştıran bu yapı, şehrin panoramik manzarasıyla ünlüdür.
+	•	Adı: Saat Kulesi
+	◦	Açıklama: İzmir'in Konak Meydanı'nda yer alan ve şehrin sembolü haline gelen tarihi bir yapıdır. 1901 yılında Sultan II. Abdülhamid'in tahta çıkışının 25. yıldönümü anısına inşa edilmiştir.
+	•	Adı: Çeşme Kalesi
+	◦	Açıklama: Çeşme'nin merkezinde yer alan, 16. yüzyılda inşa edilmiş bir Osmanlı kalesidir. Çeşme Müzesi'ne de ev sahipliği yapar ve kale surlarından muhteşem bir deniz manzarası sunar.
+	•	Adı: Ayasuluk Tepesi Selçuk
+	◦	Açıklama: Selçuk'ta bulunan Ayasuluk Tepesi, St. Jean Kilisesi'nin ve İsa Bey Camii'nin kalıntılarını barındırır. Bölgenin tarihi ve manevi açıdan önemli bir noktasıdır.
+	•	Adı: Bergama Antik Kenti
+	◦	Açıklama: İzmir'in kuzeyinde yer alan Bergama Antik Kenti, Pergamon Akropolü, Asklepion ve Helenistik tiyatrosu ile UNESCO Dünya Mirası Listesi'nde yer alan önemli bir tarihi merkezdir.
+Müzeler ve Sanat Galerileri
+	•	Adı: Arkas Sanat Merkezi (Bornova, Alsancak, Urla)
+	◦	Açıklama: Zengin koleksiyonları ve özel sergileriyle dikkat çeken, sanata ve kültüre katkı sağlayan önemli bir sanat galerisidir.
+	•	Adı: Bornova Denizcilik Müzesi
+	◦	Açıklama: Denizcilik tarihi ve denizcilikle ilgili objelerin sergilendiği, deniz tutkunları için ilgi çekici bir müzedir.
+	•	Adı: Kültürpark Sergileri
+	◦	Açıklama: Kültürpark içerisinde düzenlenen çeşitli sanat ve kültür sergilerine ev sahipliği yapan alanlardır.
+	•	Adı: Key Museum
+	◦	Açıklama: Klasik otomobil ve motosiklet koleksiyonuyla Türkiye'nin en büyüklerinden biri olan bir müzedir.
+	•	Adı: Atatürk Müzesi
+	◦	Açıklama: İzmir'in Alsancak ilçesinde bulunan, Mustafa Kemal Atatürk'ün İzmir ziyaretlerinde kaldığı tarihi bir konaktır ve döneme ait eşyaları sergiler.
+	•	Adı: İzmir Arkeoloji Müzesi
+	◦	Açıklama: İzmir ve çevresindeki antik kazılardan elde edilen eserlerin sergilendiği, bölgenin zengin tarihini gözler önüne seren önemli bir müzedir.
+	•	Adı: Adnan Saygun Sanat Merkezi
+	◦	Açıklama: Konser salonları, sergi alanları ve sahne sanatları etkinlikleri için kullanılan modern bir kültür ve sanat merkezidir.
+	•	Adı: İzmir Denizcilik Müzesi
+	◦	Açıklama: Karşıyaka'da bulunan ve Türk denizcilik tarihini anlatan objelerin sergilendiği bir müzedir.
+	•	Adı: Etnografya Müzesi
+	◦	Açıklama: İzmir'in tarihi ve kültürel zenginliğini yansıtan, geleneksel el sanatları ve günlük yaşam objelerinin sergilendiği bir müzedir.
+Doğal Güzellikler
+	•	Adı: Aşık Veysel Rekreasyon Alanı
+	◦	Açıklama: Bornova'da yer alan, konser ve spor etkinliklerinin düzenlendiği geniş yeşil bir alandır.
+	•	Adı: Şirince
+	◦	Açıklama: Şarap evleri, taş evleri ve dar sokaklarıyla ünlü, huzurlu bir köy atmosferi sunan bir yerleşim yeridir.
+	•	Adı: Eski Foça Sahil
+	◦	Açıklama: Sakin denizi, balıkçı tekneleri ve şirin kafeleriyle huzurlu bir sahil kasabasıdır.
+	•	Adı: Karagöl Tabiat Parkı
+	◦	Açıklama: Yamanlar Dağı'nda yer alan ve etrafında doğa yürüyüşü yapılabilecek bir göle sahip tabiat parkıdır.
+	•	Adı: İzmir Doğal Yaşam Parkı
+	◦	Açıklama: Çiğli'de bulunan ve hayvanların doğal ortamlarında yaşadığı geniş bir hayvanat bahçesidir.
+	•	Adı: Urla Sahil
+	◦	Açıklama: Şirin kafeleri, restoranları ve yürüyüş yolları ile keyifli bir sahil şerididir.
+	•	Adı: Karşıyaka Sahil
+	◦	Açıklama: Kordon'a benzer yapısıyla yürüyüş, bisiklet ve kafelerde vakit geçirmek için ideal bir sahil şerididir.
+	•	Adı: Bostanlı Sahil
+	◦	Açıklama: Bostanlı'da bulunan, gün batımı manzarasıyla ünlü ve "Gün Batımı Terası" gibi modern yapılarla süslenmiş bir sahil alanıdır.
+	•	Adı: İnciraltı Kent Ormanı
+	◦	Açıklama: Şehir merkezine yakın konumuyla piknik, yürüyüş ve bisiklet gibi aktiviteler için uygun, geniş bir kent ormanıdır.
+	•	Adı: Balçova Terapi Ormanı
+	◦	Açıklama: Doğayla iç içe, yürüyüş parkurları ve temiz havasıyla dinlenmek ve yenilenmek için ideal bir ormanlık alandır.
+	•	Adı: Kültürpark
+	◦	Açıklama: İzmir Enternasyonal Fuarı'na ev sahipliği yapan, içinde lunapark, gölet ve geniş yeşil alanları barındıran şehrin en büyük parklarından biridir.
+	•	Adı: Büyük Park
+	◦	Açıklama: Bornova'da bulunan, geniş yeşil alanları ve çocuk oyun parkları ile aileler için popüler bir parktır.
+Yeme-İçme
+	•	Adı: Kemeraltı (Meşhur Tantunici)
+	◦	Açıklama: Tantuni, döner ve diğer yöresel lezzetleri tadabileceğin popüler bir yiyecek dükkanıdır.
+	•	Adı: Rezene Kafe
+	◦	Açıklama: Bornova'da yer alan, sıcak ve samimi atmosferiyle bilinen bir kafe.
+	•	Adı: Kitra Kafe
+	◦	Açıklama: Bornova'da bulunan, özellikle öğrencilerin tercih ettiği, geniş kahve menüsüne sahip bir mekan.
+	•	Adı: Süt Çiçeği
+	◦	Açıklama: Konak'ta bulunan, geleneksel sütlü tatlıları ve yöresel lezzetleriyle ünlü bir dükkan.
+	•	Adı: Hisarönü Süt Tatlıları
+	◦	Açıklama: Hisarönü'nde bulunan ve özellikle şambali tatlısıyla ünlenmiş bir dükkan.
+	•	Adı: Kumda Kahve
+	◦	Açıklama: Konak'ta yer alan, geleneksel kumda pişen Türk kahvesi deneyimi sunan bir kafe.
+	•	Adı: Çelebi
+	◦	Açıklama: Alsancak'ta bulunan, özellikle kokoreci ve midye dolmasıyla bilinen popüler bir yiyecek mekanı.
+	•	Adı: Dostlar Fırını
+	◦	Açıklama: Alsancak'ta yer alan, geleneksel boyoz ve pastane ürünleriyle ünlü bir fırın.
+	•	Adı: Kazan Köfte
+	◦	Açıklama: Karşıyaka'da bulunan ve lezzetli köfteleriyle bilinen bir restoran.
+	•	Adı: Denizpark
+	◦	Açıklama: Karşıyaka sahilinde bulunan, deniz manzarası eşliğinde yemek yenebilecek bir restoran.
+	•	Adı: Cadının Evi
+	◦	Açıklama: Bostanlı'da bulunan, özellikle atmosferi ve kahve çeşitleriyle öne çıkan bir kafe.
+	•	Adı: Reyhan Pastanesi
+	◦	Açıklama: Alsancak'ta bulunan, tatlı ve pasta çeşitleriyle ünlü, köklü bir pastane.
+	•	Adı: Alaköy Pastanesi
+	◦	Açıklama: Alsancak'ta yer alan, tatlıları ve pastalarıyla bilinen bir pastane.
+	•	Adı: Alacalı Muhallebicisi
+	◦	Açıklama: Urla'da bulunan, geleneksel sütlü tatlıları ve özellikle muhallebisiyle tanınan bir işletme.
+	•	Adı: Esnaf Köftecisi
+	◦	Açıklama: Urla'da yer alan, lezzetli köfteleriyle bilinen, otantik bir restoran.
+Eğlence
+	•	Adı: Buca VR Merkezi
+	◦	Açıklama: Sanal gerçeklik oyunları ve simülasyonlarıyla eğlenceli bir deneyim sunan bir merkez.
+	•	Adı: Alsancak VR Merkezi
+	◦	Açıklama: Alsancak'ta bulunan, sanal gerçeklik oyunlarıyla gençlere hitap eden bir eğlence mekanı.
+	•	Adı: Optimum (Bowling)
+	◦	Açıklama: Optimum AVM'de bulunan, arkadaşlarla veya aileyle bowling oynanabilecek bir eğlence alanı.
+	•	Adı: Folk Art Bowling
+	◦	Açıklama: Buca'da bulunan ve bowling oynama imkanı sunan bir eğlence merkezi.
+	•	Adı: Holy Game Zone
+	◦	Açıklama: Çok çeşitli atari ve bilgisayar oyunlarına sahip, oyunseverler için ideal bir eğlence merkezi.
+	•	Adı: Seyirtepe Paintball
+	◦	Açıklama: Doğa içinde paintball oynama fırsatı sunan bir spor ve eğlence alanı.
+	•	Adı: Kültürpark Lunapark
+	◦	Açıklama: Kültürpark içinde yer alan, dönme dolap ve çarpışan otolar gibi eğlence araçlarının bulunduğu bir lunapark.
+Alışveriş
+	•	Adı: Optimum
+	◦	Açıklama: Gaziemir'de bulunan, içinde çeşitli mağaza ve restoranların olduğu büyük bir alışveriş merkezidir.
+	•	Adı: Forum Bornova
+	◦	Açıklama: Bornova'da yer alan, açık hava konseptiyle öne çıkan popüler bir alışveriş merkezidir.
+	•	Adı: Hilltown
+	◦	Açıklama: Çiğli'de bulunan, modern mimarisi ve zengin marka seçenekleriyle dikkat çeken bir alışveriş merkezidir.
+	•	Adı: Kemeraltı
+	◦	Açıklama: Tarihi ve otantik bir pazar yeri olan Kemeraltı, geleneksel el sanatları, baharatlar ve hediyelik eşyalar gibi birçok ürünü bulabileceğin bir çarşıdır.
+	•	Adı: Karşıyaka Çarşı
+	◦	Açıklama: Karşıyaka'nın kalbi olan bu çarşı, mağazalar, kafeler ve restoranlarla dolu, hareketli bir caddedir.
+	•	Adı: Kıbrıs Şehitleri Caddesi
+	◦	Açıklama: Alsancak'ta yer alan, popüler markaların mağazaları, kafeleri ve restoranlarıyla ünlü bir alışveriş ve eğlence caddesidir.
+	•	Adı: Point Bornova
+	◦	Açıklama: Bornova'da bulunan, özellikle gençlerin tercih ettiği, modern bir alışveriş merkezidir.
+	•	Adı: MaviBahçe AVM
+	◦	Açıklama: Karşıyaka'da yer alan, açık hava konsepti ve zengin marka seçenekleriyle popüler bir alışveriş merkezidir.

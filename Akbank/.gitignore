@@ -1,0 +1,11 @@
+bin/
+lib/
+.env
+chroma_db/
+users.db
+
+venv/
+env/
+ENV/
+.ipynb_checkpoints
+

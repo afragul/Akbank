@@ -17,7 +17,7 @@ def processData():
         # Veri setini yükle
         loader = DirectoryLoader('./', glob='izmir veri seti.txt', loader_cls=TextLoader)
         documents = loader.load()
-        print(f"✅ {len(documents)} dosya yüklendi.")
+        print(f" {len(documents)} dosya yüklendi.")
         
         print("\n Metin parçalara ayrılıyor...")
         #metni parcaladik

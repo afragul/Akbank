@@ -119,7 +119,7 @@ else:
 
             # Gemini LLM modelini yükle
             llm = ChatGoogleGenerativeAI(
-                model="gemini-pro",
+                model="gemini-2.5-flash",
                 temperature=0.7,
                 convert_system_message_to_human=True
             )
@@ -210,7 +210,7 @@ else:
     if "current_query" in st.session_state and st.session_state.current_query:
         with st.spinner("Düşünüyorum..."):
             try:
-                result = qa_chain({"query": st.session_state.current_query})
+                result = qa_chain.invoke({"query": st.session_state.current_query})
                 response = result["result"]
                 
                 # Sonucu göster

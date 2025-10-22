@@ -126,3 +126,32 @@ Daha geniş veri seti
 Görsel içerik desteği (harita, fotoğraflar)
 Çoklu dil desteği
 Kullanıcı favori rotaları
+
+
+                Demo ve Deployment
+Canlı Demo
+Web Linki: https://izmir-rota-rehberi.streamlit.app/
+
+Deployment Seçenekleri
+Streamlit Cloud 
+-Streamlit Cloud'a kayıt olun
+-GitHub reposunu bağlayın - https://github.com/afragul/Akbank
+-frontend.py dosyasını seçin
+-Secrets bölümüne API key'inizi ekleyin:
+GOOGLE_API_KEY = "your_api_key_here"
+-Deploy butonuna tıklayın
+
+
+                Ekran Görüntüleri
+
+Giriş ekranı:
+![alt text](<giriş ekranı.png>)
+Kayıt ekranı:
+![alt text](<Kayıt ekranı.png>)
+Ana Sayfa:
+![alt text](<ana sayfa.png>)
+Hızlı kategorileri seçimi için öneri:
+![alt text](<tarihi yer önerisi.png>)
+![alt text](<alışveriş önerisi.png>)
+Kişisel rota oluşturmak için öneri:
+![alt text](<rota oluşturma.png>)

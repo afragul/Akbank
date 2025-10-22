@@ -165,7 +165,7 @@ else:
         st.stop()
 
     # Hoş geldin mesajı
-    st.info("👋 Merhaba! İzmir'de bugün ne yapmak istersin?")
+    st.info(" Merhaba! İzmir'de bugün ne yapmak istersin?")
 
     # Kategori butonları
     st.markdown("### Hızlı Kategoriler")
@@ -217,7 +217,7 @@ else:
                 st.markdown("---")
                 st.markdown("### Yanıt")
                 st.markdown(f"**Soru:** {st.session_state.current_query}")
-                st.markdown(f"** İzmir Asistanı:** {response}")
+                st.markdown(f"İzmir Rota Asistanı: {response}")
                 
                 # Query'yi temizle
                 st.session_state.current_query = None
